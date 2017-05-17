@@ -1,8 +1,4 @@
-<?php 
-	include_once 'navigasi.php';
-	include_once 'header.php';
- ?>
- <div class="row">
+<div class="row">
 
             <!-- Blog Entries Column -->
             <div class="col-md-8">
@@ -72,7 +68,3 @@
                 </ul>
 
             </div>
- <?php
- 	include_once 'sidebar.php'; 
- 	include_once 'footer.php';
-  ?>

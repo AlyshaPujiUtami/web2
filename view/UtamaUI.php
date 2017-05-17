@@ -4,10 +4,10 @@ require_once 'View.php';
 /**
 * 
 */
-class BerandaUI extends View
+class UtamaUI extends View
 {
 	
-	public function tampilLengkap()
+	public function tampilkanBerita()
 	{
 		include_once 'pages/beranda.php';
 		$this->end();

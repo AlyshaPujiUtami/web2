@@ -19,8 +19,8 @@ class View
 
 	protected function end()
 	{
-		include 'template/sidebar.php';
-		include 'template/footer.php' ;
+		include_once 'template/sidebar.php';
+		include 'template/footer.php';
 	}
 	
 }
